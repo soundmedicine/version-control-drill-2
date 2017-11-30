@@ -1,0 +1,10 @@
+  795  git status
+  796  git commit -m "Version 2 commits"
+  797  git remote add origin https://github.com/soundmedicine/version-control-drill-2.git
+  798  git push origin master
+  799  ls
+  800  git status
+  801  git add -A
+  802  git commit -m "Second commit"
+  803  git push origin master
+  804  git pull
